@@ -1,5 +1,5 @@
 # SimpleFaktura
-Simple (and old) Invoicde Printing Programm - VB6
+Simple (and old) Invoice Printing Programm - VB6
 
 In the late 90´s I had the task to print my invoices (every month nearly the same stuff) and was tired of using Word.
 
